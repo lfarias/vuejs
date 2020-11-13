@@ -1,4 +1,4 @@
-# alurapic
+# Estudo Vue
 
 > A Vue.js project
 
